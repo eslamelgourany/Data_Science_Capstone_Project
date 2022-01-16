@@ -1,5 +1,3 @@
-# Disaster response App
-
 
 
 
