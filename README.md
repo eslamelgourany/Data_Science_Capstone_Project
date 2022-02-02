@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+The project includes data set that contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks.
 
 <!-- MOTIVATION -->
 ## Project Motivation <a name="motivation"></a>
@@ -35,19 +35,18 @@ This section list any major frameworks/libraries used to complete the project:
 
 * [Python](https://python.org/)
 * [Scikit Learn](https://scikit-learn.org/)
-* [NLTK](https://www.nltk.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [NumPy](https://numpy.org/)
-* [SQL Alchemy](https://www.sqlalchemy.org/)
-* [Flask](https://www.fullstackpython.com/flask.html)
-* [Plotly](https://plotly.com/python/)
-* [Requests](https://docs.python-requests.org/en/latest/)
-* [BootStrap](https://getbootstrap.com/)
-* [HTML](https://html.com/)
 
 
 <!-- APPLICATION -->
 ## How to run the app <a name="Application"></a>
+
+
+
+<!-- FILE asa -->
+## How to run the app <a name="File Structure"></a>
+
 
 
 
