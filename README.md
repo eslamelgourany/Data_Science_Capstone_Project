@@ -1,9 +1,8 @@
 
 
 
-<img src="https://imagesvc.meredithcorp.io/v3/jumpstartpure/image?url=https://cf-images.us-east-1.prod.boltdns.net/v1/static/1660653193/de3508ea-4f3c-4dc2-967e-698e49ec71db/52b2b6c0-36b7-4398-ab85-24ec67da47b2/640x360/match/image.jpg&w=1280&h=720&q=90&c=cc"/>
-
-<div id="top"></div>
+<center> <p> <img src="https://imagesvc.meredithcorp.io/v3/jumpstartpure/image?url=https://cf-images.us-east-1.prod.boltdns.net/v1/static/1660653193/de3508ea-4f3c-4dc2-967e-698e49ec71db/52b2b6c0-36b7-4398-ab85-24ec67da47b2/640x360/match/image.jpg&w=1280&h=720&q=90&c=cc" alt="Starbucks" class="center" </p> </center>
+     
 
 #### Table of Contents
 
