@@ -53,6 +53,7 @@ This section list any major frameworks/libraries used to complete the project:
     └── README.md                       # Readme file
 
 **profile.json**
+
 *users (17000 users x 5 fields)*
 * gender: (categorical) M, F, O, or null
 * age: (numeric) missing value encoded as 118
