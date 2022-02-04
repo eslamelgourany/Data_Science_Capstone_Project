@@ -41,7 +41,7 @@ This section list any major frameworks/libraries used to complete the project:
 
 
 <!-- FILE asa -->
-## How to run the app <a name="File-Structure"></a>
+## Files Structure <a name="File-Structure"></a>
 
 
 
