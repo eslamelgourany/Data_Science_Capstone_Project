@@ -9,8 +9,7 @@
 1. [About The Project](#about-the-project)
 2. [Project Motivation](#motivation)
 3. [Prerequisites](#Prerequisites)
-4. [How to run the app](#Application)
-5. [File Descriptions](#files)
+5. [File Descriptions](#File-Structure)
 6. [License](#License)
 7. [Contact](#Contact)
 8. [Acknowledgments](#Acknowledgments)
@@ -21,8 +20,11 @@
 
 The project includes data set that contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks.
 
+The idea is to get this data, clean it and make analysis to be able to conclude important insights.
+
 <!-- MOTIVATION -->
 ## Project Motivation <a name="motivation"></a>
+
 
 
 
@@ -38,15 +40,41 @@ This section list any major frameworks/libraries used to complete the project:
 * [NumPy](https://numpy.org/)
 
 
-<!-- APPLICATION -->
-## How to run the app <a name="Application"></a>
-
-
-
 <!-- FILE asa -->
-## How to run the app <a name="File Structure"></a>
+## How to run the app <a name="File-Structure"></a>
 
 
+
+
+**profile.json**
+*users (17000 users x 5 fields)*
+* gender: (categorical) M, F, O, or null
+* age: (numeric) missing value encoded as 118
+* id: (string/hash)
+* became_member_on: (date) format YYYYMMDD
+* income: (numeric)
+
+
+**portfolio.json**
+
+*Offers sent during 30-day test period (10 offers x 6 fields)*
+* reward: (numeric) money awarded for the amount spent
+* channels: (list) web, email, mobile, social
+* difficulty: (numeric) money required to be spent to receive reward
+* duration: (numeric) time for offer to be open, in days
+* offer_type: (string) bogo, discount, informational
+* id: (string/hash)
+
+
+**transcript.json**
+
+*Event log (306648 events x 4 fields)*
+
+* person: (string/hash)
+* event: (string) offer received, offer viewed, transaction, offer completed
+* value: (dictionary) different values depending on event type
+* offer id: (string/hash) not associated with any "transaction"
+* time: (numeric) hours after start of test
 
 
 <!-- LICENSE -->
