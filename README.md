@@ -33,6 +33,8 @@ After performing a quick exploratory data analysis, I came up with four question
 3. Average income of the people who used the discount offer?
 4. Machine learning model that predicts whether or not someone will respond to an offer.
 
+More information can be found at Medium post: https://medium.com/p/d0dee921ea77/edit
+
 <!-- TOOLS -->
 
 ## Prerequisites <a name="Prerequisites"></a>
@@ -104,5 +106,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments <a name="Acknowledgments"></a>
-I find it very helpful and useful to provide such nice data and information to the public.
-
+Thanks to Udacity and Starbucks, we are able to put our hands on a simulated data that mimics customer behavior on the Starbucks rewards mobile app.
