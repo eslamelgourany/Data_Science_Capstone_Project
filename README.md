@@ -25,8 +25,13 @@ The idea is to get this data, clean it and make analysis to be able to conclude 
 <!-- MOTIVATION -->
 ## Project Motivation <a name="motivation"></a>
 
+Offers plays an important role not only in customer engagement but also in enhancing the business.
 
-
+After performing a quick exploratory data analysis, I came up with four questions focusing on two areas of interest which are what are the most successful offers Starbucks sent before and how likely we can predict whether a customer will accept an offer. I specifically examined:
+1. What are the most successful offers? Why there are unsuccessful offers?
+2. Average Age of the people who used the offer BOGO?
+3. Average income of the people who used the discount offer?
+4. Machine learning model that predicts whether or not someone will respond to an offer.
 
 <!-- TOOLS -->
 
