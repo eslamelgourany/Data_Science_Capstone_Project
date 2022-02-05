@@ -33,7 +33,7 @@ After performing a quick exploratory data analysis, I came up with four question
 3. Average income of the people who used the discount offer?
 4. Machine learning model that predicts whether or not someone will respond to an offer.
 
-More information can be found at Medium post: https://medium.com/p/d0dee921ea77/edit
+More information can be found at Medium post: https://medium.com/@eslamelgourany/offer-success-analysis-and-predication-d0dee921ea77
 
 <!-- TOOLS -->
 
