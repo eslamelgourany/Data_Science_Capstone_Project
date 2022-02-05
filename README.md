@@ -50,14 +50,14 @@ This section list any major frameworks/libraries used to complete the project:
 <!-- FILE asa -->
 ## Files Structure <a name="File-Structure"></a>
  
-    ├── data                            # Data folder
-    │   ├── profile.json                # Profile data file
-    │   ├── portfolio.json              # Portfolio data file
-    │   ├── transcript.json             # Transcript data file
+    ├── data                                 # Data folder
+    │   ├── profile.json                     # Profile data file
+    │   ├── portfolio.json                   # Portfolio data file
+    │   ├── transcript.json                  # Transcript data file
     │   ├── ...               
-    └── Data_science_capstone.pynb      # Jypternotebook file
-    └── LICENSE                         # License file
-    └── README.md                       # Readme file
+    └── Starbucks_Capstone_notebook.ipynb    # Jypternotebook file
+    └── LICENSE                              # License file
+    └── README.md                            # Readme file
 
 **profile.json**
 
